@@ -21,3 +21,5 @@ This implementation is done in python3 using mostly standard libraries. The only
    3. Side-channel attacks, e.g. timing attacks are not considered. 
    
 Matthew Green has a nice overview of PAKE protocols (and its great benefits vs the traditional password-over-TLS approach) here [link](https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/).
+
+(Code at master branch)
